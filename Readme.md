@@ -1,8 +1,8 @@
-# Utopia-ltversion-monitor
+# ISC-ltversion-monitor
 
-Official Golang implementation of the Utopia protocol.
+Official Golang implementation of the ISC protocol.
 
-Utopia is a command function framework.
+ISC is a command function framework.
 
 it needs to run under windows server version
 
